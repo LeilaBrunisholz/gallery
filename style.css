@@ -6,3 +6,19 @@
 .whole{
     background-color:pink;
 }
+
+.navbar-brand{
+    font-family: Agbalumo;
+}
+
+.mb-3{
+    font-family: Agbalumo;
+    color:pink;
+    background-color: white;
+    opacity: 90%;
+}
+
+.m-3{
+    font-family: Agbalumo;
+    color:black;    
+}
